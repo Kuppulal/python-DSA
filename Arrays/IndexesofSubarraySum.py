@@ -1,4 +1,4 @@
-#python3
+#python
 class solution:
     def subarray(self, arr, target):
         start = 0
