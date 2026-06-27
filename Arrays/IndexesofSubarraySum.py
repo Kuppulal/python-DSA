@@ -1,3 +1,4 @@
+#python3
 class solution:
     def subarray(self, arr, target):
         start = 0
@@ -26,4 +27,6 @@ if __name__ == "__main__":
         print(-1)
     else:
         print(ans[0],ans[1])
+        
+        
         
